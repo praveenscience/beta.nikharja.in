@@ -3350,3 +3350,12 @@ footer.main-footer {
 	background-position:center;
 }
 }
+
+.resum-header{
+	padding: 30px
+}
+
+.resum-header img {
+    display: block;
+    margin: 0 10px 15px
+}
