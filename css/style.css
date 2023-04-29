@@ -1816,7 +1816,7 @@ section.dec-sec:after {
 .clients-list li  {
 	float:left;
 	width:20%;
-	padding:40px;
+	padding:10px;
 	position:relative;
 }
 .clients-list a  , .clients-list a span{
