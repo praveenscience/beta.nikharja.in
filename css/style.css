@@ -3415,9 +3415,15 @@ article h4 a:hover {
 
 .resum-header {
   padding: 30px;
+  text-align: center;
 }
 
+.resum-header h3,
+.resum-header span {
+  float: none;
+  text-align: center;
+}
 .resum-header img {
   display: block;
-  margin: 0 10px 15px;
+  margin: 0 auto 15px;
 }
