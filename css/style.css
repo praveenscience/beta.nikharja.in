@@ -3434,3 +3434,6 @@ article h4 a:hover {
   float: left;
   width: 50%;
 }
+strong {
+  font-weight: bold;
+}
