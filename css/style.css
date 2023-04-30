@@ -3426,3 +3426,11 @@ article h4 a:hover {
   display: block;
   margin: 0 auto 15px;
 }
+
+.two-col {
+  overflow: hidden;
+}
+.two-col .col-50 {
+  float: left;
+  width: 50%;
+}
