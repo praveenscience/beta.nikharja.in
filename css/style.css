@@ -404,7 +404,6 @@ blockquote p {
   background: #ffd600;
   outline: none;
   padding: 15px 18px;
-  display: inline-block;
   border-radius: 4px;
 }
 .btn i {
