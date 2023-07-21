@@ -3437,3 +3437,4 @@ article h4 a:hover {
 strong {
   font-weight: bold;
 }
+.clients-list a span span {display: none;} .clients-list a:hover span span {display: block; position: absolute; background: transparent; color: #000; top: 45%; width: 100%; border: 0;}
