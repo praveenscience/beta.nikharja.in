@@ -1236,6 +1236,6 @@
     <script type="text/javascript" src="js/jquery.min.js"></script>
     <script type="text/javascript" src="js/plugins.js"></script>
     <script type="text/javascript" src="js/scripts.js"></script>
-    <script>$(".dont-scroll").off("click");</script>
+    <script>$(".dont-scroll").off("click"); $(".dont-scroll").on("click", function () { $(this).off("click"); return true; });</script>
   </body>
 </html>
